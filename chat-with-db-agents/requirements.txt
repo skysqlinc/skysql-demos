@@ -1,0 +1,11 @@
+llama-index-core
+llama-index-llms-openai
+openai
+requests
+python-dotenv
+streamlit
+streamlit_chat
+langchain
+langchain_openai
+langgraph
+crewai
