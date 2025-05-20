@@ -19,7 +19,7 @@ A collection of examples demonstrating how to use SkySQL DB agents as tools with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/skysqlinc/skysql-demos
+   git clone git@github.com:skysqlinc/skysql-demos.git
    cd skysql-demos/chat-with-db-agents
    ```
 2. (Recommended) Create and activate a Python virtual environment:
